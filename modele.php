@@ -6,9 +6,9 @@
 
     //à modifier pour webdev éventuellement...
     define("SERVER", "localhost");
-    define("USERNAME", "root");
-    define("PASSWORD", "root");
-    define("DBNAME", "blog");
+    define("USERNAME", "e2196136");
+    define("PASSWORD", "NCxWcdqKgPk6PP2AT097");
+    define("DBNAME", "e2196136");
    
     function connectDB()
     {
