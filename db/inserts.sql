@@ -1,0 +1,7 @@
+--users INSERT
+INSERT INTO usagers(username, password, prenom, nom) VALUES("milobyte", "dragon123", "etienne", "milon");
+INSERT INTO usagers(username, password, prenom, nom) VALUES("krnel", "poisson321", "bob", "ross");
+
+--articles INSERT
+INSERT INTO articles(idAuteur, titre, texte) VALUES("milobyte", "PHPMyAdmin", "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat ac tincidunt vitae semper quis. Enim lobortis scelerisque fermentum dui faucibus in. Sed velit dignissim sodales ut eu sem. Neque ornare aenean euismod elementum. Sed vulputate mi sit amet mauris commodo quis imperdiet massa. Fermentum posuere urna nec tincidunt. Interdum varius sit amet mattis vulputate enim. Nulla pharetra diam sit amet nisl suscipit adipiscing. Diam quam nulla porttitor massa id.");
+INSERT INTO articles(idAuteur, titre, texte) VALUES("krnel", "Laravel", "A condimentum vitae sapien pellentesque habitant. Magna etiam tempor orci eu lobortis elementum. Amet consectetur adipiscing elit ut aliquam. Dictum sit amet justo donec enim diam vulputate ut pharetra. Est velit egestas dui id ornare. Urna porttitor rhoncus dolor purus non. Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Arcu risus quis varius quam quisque.");
